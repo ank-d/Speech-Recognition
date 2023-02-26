@@ -1,2 +1,2 @@
 # Speech-Recognition
-Basic Sppech Recognition code using python
+Basic Speech Recognition code using python
